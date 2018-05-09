@@ -4,7 +4,7 @@ import javax.swing.*;
 
 public class Exercicio1 {
 	
-	//Atributos
+	//Atributos 
 	String nome;
 	String sexo;
 	int idade;
