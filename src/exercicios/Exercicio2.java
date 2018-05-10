@@ -20,7 +20,7 @@ public class Exercicio2 {
 	//Método para realizar as perguntas
 	public void perguntas(){
 		
-		nome = JOptionPane.showInputDialog("Informe seu nome ou sair para finalizar:").toLowerCase();	
+		nome = JOptionPane.showInputDialog("Informe seu nome:").toLowerCase();	
 		quantidade++;
 		idade = Integer.parseInt(JOptionPane.showInputDialog("Informe sua idade:"));
 		altura = Double.parseDouble(JOptionPane.showInputDialog("Informe sua altura:"));
